@@ -1,0 +1,13 @@
+{
+"scripts": {
+    "lint": "eslint '**/*.js'",
+    "test": "mocha --exit './{,!(node_modules)/**}/*.spec.js'"
+  },
+  "dependencies": {
+    "chai": "^4.3.6"
+  },
+  "devDependencies": {
+    "eslint-config-salt": "^1.2.0",
+    "mocha": "^10.1.0"
+  }
+}
