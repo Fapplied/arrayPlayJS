@@ -10,7 +10,7 @@
     "Gender": "Male"
 }, {
     "full name": "Oliwier Bakker",
-    "address": {"street": "6042 Marion Estate", "city": "Surhuisterveen"},
+    "address": {"street": "6042 Marion Estate", "city": "Berkhout"},
     "Age": 94,
     "Children": [{"Name": "Dana Cummings", "Gender": "Male", "Age": 5}, {
         "Name": "Derrick Sanford",
@@ -40,7 +40,7 @@
     "Gender": "Male"
 }, {
     "full name": "Lexie Ven",
-    "address": {"street": "29101 Lee Pines", "city": "Geenhoven"},
+    "address": {"street": "29101 Lee Pines", "city": "Berkhout"},
     "Age": 23,
     "Children": [{"Name": "Whitney Hettinger", "Gender": "Female", "Age": 1}, {
         "Name": "Vicky Rohan",
