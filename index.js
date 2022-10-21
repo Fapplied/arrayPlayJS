@@ -10,7 +10,7 @@ const parsedData = JSON.parse(read.toString());
 // console.log(over30);
 
 const cityList = parsedData.reduce((acc, curr)=>{
- acc[curr.address.city] = acc[curr.address.city] !== undefined ? acc[curr.address.city] + 1 : 1 ;
+ acc[curr.address.city] = acc[curr.address.city] ? acc[curr.address.city] + 1 : 1 ;
  return acc;
 },{})
 
